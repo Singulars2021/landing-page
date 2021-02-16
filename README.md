@@ -5,7 +5,7 @@
 1. Descargar e Instalar **[Xampp](https://www.apachefriends.org/index.html)**
 2. Descargar **[Wordpress](https://wordpress.org/download/)**
     * Dejo una web donde explica paso a paso la instalación en local de Wordpress con XAMPP: **[Pasos instalación](https://themeisle.com/blog/install-xampp-and-wordpress-locally/)**
-    * Tutorial para instalar XAMPP y Wordpress **[para MAC OS](https://www.youtube.com/watch?v=OBSDJHO2nJA)
+         * [Tutorial](https://www.youtube.com/watch?v=OBSDJHO2nJA) para instalar XAMPP y Wordpress **para MAC OS.**
 
 3. Una vez instalado y configurado el Wordpress en local. Ir a: "Plugins" > "Añadir Nuevo" > buscar e instalar **[All-in-One](https://es.wordpress.org/plugins/all-in-one-wp-migration/)**
 
